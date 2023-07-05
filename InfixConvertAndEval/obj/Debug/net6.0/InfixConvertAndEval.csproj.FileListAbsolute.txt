@@ -1,0 +1,15 @@
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\bin\Debug\net6.0\InfixConvertAndEval.exe
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\bin\Debug\net6.0\InfixConvertAndEval.deps.json
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\bin\Debug\net6.0\InfixConvertAndEval.runtimeconfig.json
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\bin\Debug\net6.0\InfixConvertAndEval.dll
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\bin\Debug\net6.0\InfixConvertAndEval.pdb
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\obj\Debug\net6.0\InfixConvertAndEval.csproj.AssemblyReference.cache
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\obj\Debug\net6.0\InfixConvertAndEval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\obj\Debug\net6.0\InfixConvertAndEval.AssemblyInfoInputs.cache
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\obj\Debug\net6.0\InfixConvertAndEval.AssemblyInfo.cs
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\obj\Debug\net6.0\InfixConvertAndEval.csproj.CoreCompileInputs.cache
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\obj\Debug\net6.0\InfixConvertAndEval.dll
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\obj\Debug\net6.0\refint\InfixConvertAndEval.dll
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\obj\Debug\net6.0\InfixConvertAndEval.pdb
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\obj\Debug\net6.0\InfixConvertAndEval.genruntimeconfig.cache
+C:\Fanshawe Academic\Semester 5\C# Advanced Topics\Project2_ARamirez\InfixConvertAndEval\obj\Debug\net6.0\ref\InfixConvertAndEval.dll
